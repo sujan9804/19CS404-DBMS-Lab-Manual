@@ -46,10 +46,6 @@ Design a database for patient management, appointments, medical records, and bil
    - How you modeled prerequisites or billing.
 
 # EX:1  ER DIAGRAM
-
-## NAME: VIGNESH.V
-## REG.NO : 212223230241
-
 ## Scenario Chosen:
 Hospital
 
